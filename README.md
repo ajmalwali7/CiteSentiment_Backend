@@ -16,10 +16,6 @@ At CiteSentiment, our mission is to provide a cutting-edge platform that offers 
 3. **Support Academic Growth:** Our tools assist in identifying key trends and influential works, enabling researchers to make more informed decisions and advance their scholarly contributions.
 4. **Ensure Data Security:** We prioritize the security and privacy of our users' data, implementing robust measures to protect sensitive information.
 
-## Why We Exist
-
-In the ever-evolving world of academia, understanding the nuances behind citation practices is crucial. CiteSentiment was born out of a need to provide deeper insights into how research is perceived and cited. We believe that by illuminating the sentiments behind citations, we can help researchers gain a more holistic view of their work's impact and foster a more collaborative academic community.
-
 ## Our Approach
 
 Our approach combines advanced sentiment analysis with a user-friendly interface, making it easy for researchers to access and interpret citation sentiment data. Here's what sets us apart:
@@ -28,10 +24,6 @@ Our approach combines advanced sentiment analysis with a user-friendly interface
 2. **User-Centric Design:** Our platform is designed with researchers in mind, offering intuitive tools and visualizations that make data interpretation straightforward and insightful.
 3. **Comprehensive Coverage:** We cover a wide range of academic disciplines and sources, providing a broad perspective on citation sentiment across different fields of study.
 4. **Continuous Improvement:** We are committed to constantly refining and enhancing our tools based on user feedback and advancements in technology.
-
-## Our Impact
-
-Since our launch, we have empowered numerous researchers with the insights needed to understand the sentiment behind their citations. Our platform has helped academics identify key trends, recognize influential works, and foster collaborative relationships within the scholarly community. Our impact is measured not just by the number of users we serve but by the depth of understanding and the quality of connections we facilitate.
 
 ## Join Us in Enhancing Academic Understanding
 
