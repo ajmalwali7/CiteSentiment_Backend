@@ -77,7 +77,7 @@ app.use(
   })
 );
 
-// app.use(compression());
+app.use(compression());
 
 app.use("/api/users", userRouter);
 app.use("/api/papers", paperRouter);
